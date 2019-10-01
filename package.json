@@ -1,0 +1,23 @@
+{
+  "name": "node-grbl-parser",
+  "version": "0.0.1",
+  "description": "NodeJS parser for grbl response messages and for parsing grbl gcode commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legacymachine/node-grbl-parser.git"
+  },
+  "keywords": [
+    "grbl",
+    "nodejs"
+  ],
+  "author": "Josh Dudley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/legacymachine/node-grbl-parser/issues"
+  },
+  "homepage": "https://github.com/legacymachine/node-grbl-parser#readme"
+}
